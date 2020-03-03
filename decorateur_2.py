@@ -24,4 +24,4 @@ for i in range(11):
 
 end_time = time.time()
 time_lapse = end_time - start_time
-print(f"Time Lapse : {time_lapse}")
+print(f"Time Lapse : {time_lapse} s")
