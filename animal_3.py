@@ -26,7 +26,7 @@ class Reptile(Animal):
 
 # MC
 r1 = Reptile("Lézard", 70)
-r2 = Reptile("Varengh", 7000)
+r2 = Reptile("Varan", 7000)
 
 
 def longueur_animal(x):
